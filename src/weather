@@ -1,0 +1,7 @@
+{"coord":{"lon":-96.7836,"lat":32.7668},
+"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],
+"base":"stations","main":
+{"temp":278.95,"feels_like":274.8,"temp_min":277.76,"temp_max":280.14,"pressure":1030,"humidity":57},
+"visibility":10000,"wind":{"speed":6.69,"deg":360,"gust":11.32},"clouds":{"all":20},"dt":1698681046,"sys":
+{"type":2,"id":2075302,"country":"US","sunrise":1698669773,"sunset":1698709112},
+"timezone":-18000,"id":4684904,"name":"Dallas","cod":200}
